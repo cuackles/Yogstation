@@ -349,3 +349,11 @@
 	icon_state = "cowboy"
 	item_state = "cowboy"
 
+
+/obj/item/clothing/head/banana
+	name = "banana hat"
+	desc = "high in potassium."
+	icon_state = "banana_hat"
+	item_state = "banana_hat"
+	flags_inv = HIDEEARS|HIDEHAIR|HIDEFACIALHAIR
+
