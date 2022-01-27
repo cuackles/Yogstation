@@ -124,6 +124,7 @@
 					/obj/item/clothing/mask/yogs/cluwne/happy_cluwne = 1,
 					/obj/item/clothing/mask/yogs/bananamask = 1,
 					/obj/item/storage/backpack/banana = 1,
+					/obj/item/clothing/head/banana = 1,
 					/obj/item/clothing/mask/yogs/gigglesmask = 1,
 					/obj/item/storage/backpack/clownface = 1,
 					/obj/item/clothing/mask/yogs/scaryclown = 1,
