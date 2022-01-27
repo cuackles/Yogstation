@@ -987,7 +987,7 @@
 	time = 10
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
-/datum/crafting_recipe/shank
+/datum/crafting_recipe/banana hat
 	name = "Banana hat"
 	reqs = list(/obj/item/grown/bananapeel = 5)
 	result = /obj/item/clothing/head/banana
