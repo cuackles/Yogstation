@@ -987,12 +987,3 @@
 	time = 10
 	category = CAT_WEAPONRY
 	subcategory = CAT_WEAPON
-<<<<<<< HEAD
-/datum/crafting_recipe/banana hat
-	name = "Banana hat"
-	reqs = list(/obj/item/grown/bananapeel = 5)
-	result = /obj/item/clothing/head/banana
-	time = 1
-	category = CAT_CLOTHING
-=======
->>>>>>> parent of 100cbb9a006 (Update recipes.dm)
