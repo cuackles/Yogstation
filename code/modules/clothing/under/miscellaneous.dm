@@ -911,3 +911,12 @@
 	body_parts_covered = CHEST|GROIN|LEGS|FEET
 	can_adjust = FALSE
 	fitted = FEMALE_UNIFORM_TOP
+
+/obj/item/clothing/under/weiner
+	name = "weiner"
+	desc = "Formal wear for a leading lady."
+	icon_state = "weiner"
+	item_state = "weiner"
+	item_color = "weiner"
+	body_parts_covered = CHEST|GROIN|ARMS
+	can_adjust = FALSE
